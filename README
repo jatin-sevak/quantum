@@ -1,0 +1,17 @@
+#load Image In Grid
+
+## Requirements
+- Android Studio
+- Internet connection
+
+## Setup Instructions
+1. Clone the repository.
+2. Open the project in Android Studio.
+3. Build the project.
+4. Run the application on an emulator or physical device with internet access.
+
+## Functionality
+- Displays images in a 3-column grid.
+- Loads images asynchronously.
+- Implements both memory and disk caching.
+- Handles errors gracefully with placeholders for failed loads.
